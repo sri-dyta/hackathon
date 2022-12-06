@@ -1,0 +1,17 @@
+{
+    "request_id": "345bb665b371142a",
+    "results": [
+        {
+            "transaction_id": "1cf756eb-8a54-401e-b56d-382a273c7d91",
+            "category": {
+                "value": "ex:misc.streaming.video",
+                "system": "ECOLYTIQ"
+            },
+            "co2_footprint": {
+                "value": 12398,
+                "unit": "g"
+            }
+        }
+    ],
+    "errors": []
+}
