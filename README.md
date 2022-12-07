@@ -1,5 +1,9 @@
 # virtual-experience-hackathon
 
+This Springboot + thymeleaf webapp enables a customer to purchase tickets from the dashboard.
+
+This app enables the users to look at the carbon footprint usage after the purchase was made.
+
 
 
 ## Getting started
