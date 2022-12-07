@@ -1,0 +1,330 @@
+ 
+
+{
+    "request_id": "3aa33ac6f92eb239",
+    "results": [
+        {
+            "id": "897e932e-ff44-4a0b-a257-8f7cf11f625d",
+            "categories": [
+                {
+                    "value": "ex:shopping.online",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:transport.car-rental",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:transport.emobility",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:transport.localtransport",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:living.home",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:misc.drug-stores",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:misc.travel",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:shopping.furniture",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:shopping.clothes",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:misc.streaming.audio",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:living.energy",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:transport.flight",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:food.corner",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:transport.train",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:transport.taxi",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:food.catering",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:misc.streaming.video",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:food.groceries",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:misc",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:misc.lodging",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:food.cafe",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:transport.servicestations",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:misc.streaming",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:misc.zero",
+                    "system": "ECOLYTIQ"
+                }
+            ],
+            "content": [
+                {
+                    "language_code": "en",
+                    "text": "Equal to approximately 109 km of driving in a car."
+                }
+            ]
+        },
+        {
+            "id": "d6eef60f-95f9-42cb-b24f-9ac77ddbff96",
+            "categories": [
+                {
+                    "value": "ex:shopping.online",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:transport.car-rental",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:transport.emobility",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:transport.localtransport",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:misc.travel",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:misc.lodging",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:food.groceries",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:living.home",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:misc",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:transport.servicestations",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:transport.train",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:living.energy",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:transport.flight",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:misc.streaming",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:misc.streaming.audio",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:food.catering",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:misc.zero",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:food.cafe",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:transport.taxi",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:misc.drug-stores",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:misc.streaming.video",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:shopping.clothes",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:shopping.furniture",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:food.corner",
+                    "system": "ECOLYTIQ"
+                }
+            ],
+            "content": [
+                {
+                    "language_code": "en",
+                    "text": "Equal to a flight of approximately 2 hours."
+                }
+            ]
+        },
+        {
+            "id": "812f04c7-dd00-4df9-a4a7-7c36d0778b12",
+            "categories": [
+                {
+                    "value": "ex:transport.taxi",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:living.energy",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:transport.flight",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:food.corner",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:transport.train",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:food.catering",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:misc.streaming.video",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:misc.travel",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:shopping.furniture",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:misc.drug-stores",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:shopping.clothes",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:misc.streaming.audio",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:transport.car-rental",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:transport.emobility",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:transport.localtransport",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:living.home",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:shopping.online",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:food.cafe",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:food.groceries",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:misc.lodging",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:misc",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:misc.streaming",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:transport.servicestations",
+                    "system": "ECOLYTIQ"
+                },
+                {
+                    "value": "ex:misc.zero",
+                    "system": "ECOLYTIQ"
+                }
+            ],
+            "content": [
+                {
+                    "language_code": "en",
+                    "text": "Equal to boiling an electric kettle for approximately 1128 minutes."
+                }
+            ]
+        }
+    ],
+    "errors": []
+}
+
